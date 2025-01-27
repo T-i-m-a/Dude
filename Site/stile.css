@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 85vh;
+    background-color: darksalmon;
+    color: #000000;
+}
+.content{
+    text-align: center;   
+    position: relative; 
+    top: 10%;
+}
+.main img{
+    width: 300;
+    height: 400;
+    border-radius: 20;
+}
+.main h1{
+    font-size: 80px;
+}
+.main p{
+    font-size: 50px;
+}
+.main input{
+    width: 300px;
+}

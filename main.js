@@ -1,4 +1,4 @@
-document.getElementById('BorderRadius').addEventListener("mousemove",setBorderRadius);
+document.getElementById('BorderRadius').addEventListener("change",setBorderRadius);
 
 function setBorderRadius() {
     

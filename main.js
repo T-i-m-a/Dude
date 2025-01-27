@@ -1,4 +1,4 @@
-document.getElementById('BorderRadius').addEventListener("change",setBorderRadius);
+document.getElementById('BorderRadius').addEventListener("input",setBorderRadius);
 
 function setBorderRadius() {
     
